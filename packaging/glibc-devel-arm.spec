@@ -17,13 +17,14 @@
 ### only changes here
 #
 # The original package name
-%define oldname eglibc-devel
+%define oldname glibc-devel
 #
 # The architectures this meta package is built on
 %define myexclusive %arm
 #
 ### no changes needed below this line
 # ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 
 ### no changes needed
@@ -88,7 +89,7 @@ Source40:      files_to_ignore
 %endif
 Source100:     baselibs.conf
 
-Provides: glibc-devel-arm
+Provides: eglibc-devel-arm
 
 %description
 This is a meta-package providing %name.

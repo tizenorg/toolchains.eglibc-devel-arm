@@ -1,0 +1,36 @@
+* Sat Jun 28 2014 SLP SCM <slpsystem.m@samsung.com> - None 
+- PROJECT: toolchains/eglibc-devel-arm
+- COMMIT_ID: d7e54e0a915375954150e17e44948effa3c10859
+- BRANCH: master
+- PATCHSET_REVISION: d7e54e0a915375954150e17e44948effa3c10859
+- CHANGE_OWNER: \"UkJung Kim\" <ujkim@samsung.com>
+- PATCHSET_UPLOADER: \"UkJung Kim\" <ujkim@samsung.com>
+- CHANGE_URL: http://slp-info.sec.samsung.net/gerrit/534130
+- PATCHSET_REVISION: d7e54e0a915375954150e17e44948effa3c10859
+- TAGGER: SLP SCM <slpsystem.m@samsung.com>
+- Gerrit patchset approval info:
+- UkJung Kim <ujkim@samsung.com> Verified : 1
+- Newton Lee <newton.lee@samsung.com> Code-Review : 2
+- Newton Lee <newton.lee@samsung.com> Verified : 1
+- CHANGE_SUBJECT: Merged x86_64 support to master
+
+- Merged x86_64 support to master
+
+* Tue Jul 30 2013 UkJung Kim <ujkim@samsung.com> - None 
+- PROJECT: toolchains/eglibc-devel-arm
+- COMMIT_ID: 59399d7761b35c2fa96b2ab2d25c98482de12dda
+- PATCHSET_REVISION: 59399d7761b35c2fa96b2ab2d25c98482de12dda
+- CHANGE_OWNER: \"UkJung Kim\" <ujkim@samsung.com>
+- PATCHSET_UPLOADER: \"UkJung Kim\" <ujkim@samsung.com>
+- CHANGE_URL: http://slp-info.sec.samsung.net/gerrit/249419
+- PATCHSET_REVISION: 59399d7761b35c2fa96b2ab2d25c98482de12dda
+- TAGGER: UkJung Kim <ujkim@samsung.com>
+- Gerrit patchset approval info:
+- UkJung Kim <ujkim@samsung.com> Verified : 1
+- Yeongil Jang <yg0577.jang@samsung.com> Code Review : 2
+- CHANGE_SUBJECT: Submit to OBS
+
+- Submit to OBS
+
+* Thu Aug 4 2011 Junfeng Dong <junfeng.dong@intel.com> -1.0
+- Initial version for SLP.
